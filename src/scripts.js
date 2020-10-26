@@ -1,2 +1,4 @@
-a = 10
-print(a)
+$(function(){
+    console.log("YES");
+    let data = $('#data').val();
+});
